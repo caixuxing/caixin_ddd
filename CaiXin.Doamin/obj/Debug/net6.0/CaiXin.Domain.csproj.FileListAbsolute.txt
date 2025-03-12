@@ -1,0 +1,5 @@
+F:\Work\github\CaiXin\CaiXin.Doamin\obj\Debug\net6.0\CaiXin.Domain.csproj.AssemblyReference.cache
+F:\Work\github\CaiXin\CaiXin.Doamin\obj\Debug\net6.0\CaiXin.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\github\CaiXin\CaiXin.Doamin\obj\Debug\net6.0\CaiXin.Domain.AssemblyInfoInputs.cache
+F:\Work\github\CaiXin\CaiXin.Doamin\obj\Debug\net6.0\CaiXin.Domain.AssemblyInfo.cs
+F:\Work\github\CaiXin\CaiXin.Doamin\obj\Debug\net6.0\CaiXin.Domain.csproj.CoreCompileInputs.cache

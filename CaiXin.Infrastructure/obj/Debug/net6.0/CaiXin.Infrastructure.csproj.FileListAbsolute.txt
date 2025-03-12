@@ -1,0 +1,11 @@
+F:\Work\github\CaiXin\CaiXin.Infrastructure\bin\Debug\net6.0\CaiXin.Infrastructure.deps.json
+F:\Work\github\CaiXin\CaiXin.Infrastructure\bin\Debug\net6.0\CaiXin.Infrastructure.dll
+F:\Work\github\CaiXin\CaiXin.Infrastructure\bin\Debug\net6.0\CaiXin.Infrastructure.pdb
+F:\Work\github\CaiXin\CaiXin.Infrastructure\obj\Debug\net6.0\CaiXin.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\github\CaiXin\CaiXin.Infrastructure\obj\Debug\net6.0\CaiXin.Infrastructure.AssemblyInfoInputs.cache
+F:\Work\github\CaiXin\CaiXin.Infrastructure\obj\Debug\net6.0\CaiXin.Infrastructure.AssemblyInfo.cs
+F:\Work\github\CaiXin\CaiXin.Infrastructure\obj\Debug\net6.0\CaiXin.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Work\github\CaiXin\CaiXin.Infrastructure\obj\Debug\net6.0\CaiXin.Infrastructure.dll
+F:\Work\github\CaiXin\CaiXin.Infrastructure\obj\Debug\net6.0\refint\CaiXin.Infrastructure.dll
+F:\Work\github\CaiXin\CaiXin.Infrastructure\obj\Debug\net6.0\CaiXin.Infrastructure.pdb
+F:\Work\github\CaiXin\CaiXin.Infrastructure\obj\Debug\net6.0\ref\CaiXin.Infrastructure.dll

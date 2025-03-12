@@ -1,0 +1,15 @@
+F:\Work\github\CaiXin\CaiXin.Application.Contracts\bin\Debug\net8.0\CaiXin.Application.Contracts.deps.json
+F:\Work\github\CaiXin\CaiXin.Application.Contracts\bin\Debug\net8.0\CaiXin.Application.Contracts.dll
+F:\Work\github\CaiXin\CaiXin.Application.Contracts\bin\Debug\net8.0\CaiXin.Application.Contracts.pdb
+F:\Work\github\CaiXin\CaiXin.Application.Contracts\bin\Debug\net8.0\CaiXin.Application.Contracts.xml
+F:\Work\github\CaiXin\CaiXin.Application.Contracts\obj\Debug\net8.0\CaiXin.Application.Contracts.csproj.AssemblyReference.cache
+F:\Work\github\CaiXin\CaiXin.Application.Contracts\obj\Debug\net8.0\CaiXin.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\github\CaiXin\CaiXin.Application.Contracts\obj\Debug\net8.0\CaiXin.Application.Contracts.AssemblyInfoInputs.cache
+F:\Work\github\CaiXin\CaiXin.Application.Contracts\obj\Debug\net8.0\CaiXin.Application.Contracts.AssemblyInfo.cs
+F:\Work\github\CaiXin\CaiXin.Application.Contracts\obj\Debug\net8.0\CaiXin.Application.Contracts.csproj.CoreCompileInputs.cache
+F:\Work\github\CaiXin\CaiXin.Application.Contracts\obj\Debug\net8.0\CaiXin.Application.Contracts.dll
+F:\Work\github\CaiXin\CaiXin.Application.Contracts\obj\Debug\net8.0\refint\CaiXin.Application.Contracts.dll
+F:\Work\github\CaiXin\CaiXin.Application.Contracts\obj\Debug\net8.0\CaiXin.Application.Contracts.xml
+F:\Work\github\CaiXin\CaiXin.Application.Contracts\obj\Debug\net8.0\CaiXin.Application.Contracts.pdb
+F:\Work\github\CaiXin\CaiXin.Application.Contracts\obj\Debug\net8.0\ref\CaiXin.Application.Contracts.dll
+F:\Work\github\CaiXin\CaiXin.Application.Contracts\obj\Debug\net8.0\CaiXin.Application.Contracts.sourcelink.json

@@ -1,0 +1,12 @@
+F:\Work\github\CaiXin\CaiXin.Domain.Shared\bin\Debug\net8.0\CaiXin.Domain.Shared.deps.json
+F:\Work\github\CaiXin\CaiXin.Domain.Shared\bin\Debug\net8.0\CaiXin.Domain.Shared.dll
+F:\Work\github\CaiXin\CaiXin.Domain.Shared\bin\Debug\net8.0\CaiXin.Domain.Shared.pdb
+F:\Work\github\CaiXin\CaiXin.Domain.Shared\obj\Debug\net8.0\CaiXin.Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\github\CaiXin\CaiXin.Domain.Shared\obj\Debug\net8.0\CaiXin.Domain.Shared.AssemblyInfoInputs.cache
+F:\Work\github\CaiXin\CaiXin.Domain.Shared\obj\Debug\net8.0\CaiXin.Domain.Shared.AssemblyInfo.cs
+F:\Work\github\CaiXin\CaiXin.Domain.Shared\obj\Debug\net8.0\CaiXin.Domain.Shared.csproj.CoreCompileInputs.cache
+F:\Work\github\CaiXin\CaiXin.Domain.Shared\obj\Debug\net8.0\CaiXin.Domain.Shared.dll
+F:\Work\github\CaiXin\CaiXin.Domain.Shared\obj\Debug\net8.0\refint\CaiXin.Domain.Shared.dll
+F:\Work\github\CaiXin\CaiXin.Domain.Shared\obj\Debug\net8.0\CaiXin.Domain.Shared.pdb
+F:\Work\github\CaiXin\CaiXin.Domain.Shared\obj\Debug\net8.0\ref\CaiXin.Domain.Shared.dll
+F:\Work\github\CaiXin\CaiXin.Domain.Shared\obj\Debug\net8.0\CaiXin.Domain.Shared.sourcelink.json

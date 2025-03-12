@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CaiXin.Host</name>
+    </assembly>
+    <members>
+        <member name="T:CaiXin.Host.Controllers.QueueController">
+            <summary>
+            队列管理
+            </summary>
+        </member>
+        <member name="M:CaiXin.Host.Controllers.QueueController.Create(CaiXin.Host.Models.CreateQueueCmd)">
+            <summary>
+            创建队列
+            </summary>
+            <param name="cmd"></param>
+            <returns></returns>
+        </member>
+        <member name="T:CaiXin.Host.Controllers.UserController">
+            <summary>
+            用户
+            </summary>
+        </member>
+        <member name="M:CaiXin.Host.Controllers.UserController.Create(CaiXin.Application.Contracts.UserApp.Commands.CreateUserCmd)">
+            <summary>
+            创建用户
+            </summary>
+            <param name="cmd"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CaiXin.Host.Controllers.UserController.UpdateAccount(CaiXin.Application.Contracts.UserApp.Commands.UpdateUserCmd)">
+            <summary>
+            更新账户
+            </summary>
+            <param name="cmd"></param>
+            <returns></returns>
+        </member>
+        <member name="T:CaiXin.Host.Filter.ResultExceptionFilter">
+            <summary>
+            全局异常统一格式返回
+            </summary>
+        </member>
+        <member name="M:CaiXin.Host.Filter.ResultExceptionFilter.HandleAndWrapException(Microsoft.AspNetCore.Mvc.Filters.ExceptionContext)">
+            <summary>
+            
+            </summary>
+            <param name="context"></param>
+            <returns></returns>
+        </member>
+        <member name="T:CaiXin.Host.Filter.SysRequestLogFilter">
+            <summary>
+            系统请求日志
+            </summary>
+        </member>
+        <member name="M:CaiXin.Host.Filter.SysRequestLogFilter.OnActionExecutionAsync(Microsoft.AspNetCore.Mvc.Filters.ActionExecutingContext,Microsoft.AspNetCore.Mvc.Filters.ActionExecutionDelegate)">
+            <summary>
+            
+            </summary>
+            <param name="context"></param>
+            <param name="next"></param>
+            <returns></returns>
+        </member>
+        <member name="T:CaiXin.Host.Models.CreateQueueCmd">
+            <summary>
+            创建队列命令
+            </summary>
+        </member>
+        <member name="P:CaiXin.Host.Models.CreateQueueCmd.JosnData">
+            <summary>
+            数据
+            </summary>
+        </member>
+        <member name="P:CaiXin.Host.Models.CreateQueueCmd.CallbackUrl">
+            <summary>
+            回调地址
+            </summary>
+        </member>
+        <member name="T:CaiXin.Host.Models.CreateQueueCmdValidator">
+            <summary>
+            创建队列命令验证器
+            </summary>
+        </member>
+        <member name="M:CaiXin.Host.Models.CreateQueueCmdValidator.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:CaiXin.Host.Models.CreateQueueCmdValidator.IsValidUrl(System.String)">
+            <summary>
+            验证回调地址是否有效
+            </summary>
+            <param name="url"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CaiXin.Host.Models.CreateQueueCmdValidator.IsValidJson(System.String)">
+            <summary>
+            验证Json数据是否有效
+            </summary>
+            <param name="jsonString"></param>
+            <returns></returns>
+        </member>
+        <member name="T:CaiXin.Host.Program">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:CaiXin.Host.Program.Main(System.String[])">
+            <summary>
+            程序主入口
+            </summary>
+            <param name="args"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

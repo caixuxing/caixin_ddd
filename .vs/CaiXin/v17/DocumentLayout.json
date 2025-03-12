@@ -1,0 +1,391 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Work\\github\\CaiXin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19D6F070-3DBC-4451-996E-D81D3190FF05}|CaiXin.Infrastructure\\CaiXin.Infrastructure.csproj|f:\\work\\github\\caixin\\caixin.infrastructure\\caixininfrastructuremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D6F070-3DBC-4451-996E-D81D3190FF05}|CaiXin.Infrastructure\\CaiXin.Infrastructure.csproj|solutionrelative:caixin.infrastructure\\caixininfrastructuremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A91AE94-796F-42A2-857F-675FBFFE4866}|CaiXin.Host\\CaiXin.Host.csproj|f:\\work\\github\\caixin\\caixin.host\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A91AE94-796F-42A2-857F-675FBFFE4866}|CaiXin.Host\\CaiXin.Host.csproj|solutionrelative:caixin.host\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D6F070-3DBC-4451-996E-D81D3190FF05}|CaiXin.Infrastructure\\CaiXin.Infrastructure.csproj|f:\\work\\github\\caixin\\caixin.infrastructure\\extensions\\distributedcachehashextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D6F070-3DBC-4451-996E-D81D3190FF05}|CaiXin.Infrastructure\\CaiXin.Infrastructure.csproj|solutionrelative:caixin.infrastructure\\extensions\\distributedcachehashextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93EE1A2-161A-465D-8526-0A1389049FAD}|CaiXin.Doamin\\CaiXin.Domain.csproj|f:\\work\\github\\caixin\\caixin.doamin\\aggroot\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93EE1A2-161A-465D-8526-0A1389049FAD}|CaiXin.Doamin\\CaiXin.Domain.csproj|solutionrelative:caixin.doamin\\aggroot\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93EE1A2-161A-465D-8526-0A1389049FAD}|CaiXin.Doamin\\CaiXin.Domain.csproj|f:\\work\\github\\caixin\\caixin.doamin\\sys\\sysuser\\entity\\userdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93EE1A2-161A-465D-8526-0A1389049FAD}|CaiXin.Doamin\\CaiXin.Domain.csproj|solutionrelative:caixin.doamin\\sys\\sysuser\\entity\\userdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8AFF7A-900B-4BFA-9BA3-9B3BBAEF938E}|CaiXin.Application\\CaiXin.Application.csproj|f:\\work\\github\\caixin\\caixin.application\\caixinapplicationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8AFF7A-900B-4BFA-9BA3-9B3BBAEF938E}|CaiXin.Application\\CaiXin.Application.csproj|solutionrelative:caixin.application\\caixinapplicationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D6F070-3DBC-4451-996E-D81D3190FF05}|CaiXin.Infrastructure\\CaiXin.Infrastructure.csproj|f:\\work\\github\\caixin\\caixin.infrastructure\\job\\recurringjobworkregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D6F070-3DBC-4451-996E-D81D3190FF05}|CaiXin.Infrastructure\\CaiXin.Infrastructure.csproj|solutionrelative:caixin.infrastructure\\job\\recurringjobworkregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D6F070-3DBC-4451-996E-D81D3190FF05}|CaiXin.Infrastructure\\CaiXin.Infrastructure.csproj|f:\\work\\github\\caixin\\caixin.infrastructure\\job\\hangfirejobworkregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D6F070-3DBC-4451-996E-D81D3190FF05}|CaiXin.Infrastructure\\CaiXin.Infrastructure.csproj|solutionrelative:caixin.infrastructure\\job\\hangfirejobworkregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A91AE94-796F-42A2-857F-675FBFFE4866}|CaiXin.Host\\CaiXin.Host.csproj|f:\\work\\github\\caixin\\caixin.host\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A91AE94-796F-42A2-857F-675FBFFE4866}|CaiXin.Host\\CaiXin.Host.csproj|solutionrelative:caixin.host\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A91AE94-796F-42A2-857F-675FBFFE4866}|CaiXin.Host\\CaiXin.Host.csproj|f:\\work\\github\\caixin\\caixin.host\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A91AE94-796F-42A2-857F-675FBFFE4866}|CaiXin.Host\\CaiXin.Host.csproj|solutionrelative:caixin.host\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D6F070-3DBC-4451-996E-D81D3190FF05}|CaiXin.Infrastructure\\CaiXin.Infrastructure.csproj|f:\\work\\github\\caixin\\caixin.infrastructure\\messagebroker\\rabbitmqconsumerservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D6F070-3DBC-4451-996E-D81D3190FF05}|CaiXin.Infrastructure\\CaiXin.Infrastructure.csproj|solutionrelative:caixin.infrastructure\\messagebroker\\rabbitmqconsumerservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A91AE94-796F-42A2-857F-675FBFFE4866}|CaiXin.Host\\CaiXin.Host.csproj|f:\\work\\github\\caixin\\caixin.host\\caixinhostmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A91AE94-796F-42A2-857F-675FBFFE4866}|CaiXin.Host\\CaiXin.Host.csproj|solutionrelative:caixin.host\\caixinhostmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D6F070-3DBC-4451-996E-D81D3190FF05}|CaiXin.Infrastructure\\CaiXin.Infrastructure.csproj|f:\\work\\github\\caixin\\caixin.infrastructure\\messagebroker\\rabbitmqconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D6F070-3DBC-4451-996E-D81D3190FF05}|CaiXin.Infrastructure\\CaiXin.Infrastructure.csproj|solutionrelative:caixin.infrastructure\\messagebroker\\rabbitmqconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D6F070-3DBC-4451-996E-D81D3190FF05}|CaiXin.Infrastructure\\CaiXin.Infrastructure.csproj|f:\\work\\github\\caixin\\caixin.infrastructure\\job\\handler\\sysrequestloghandlerjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D6F070-3DBC-4451-996E-D81D3190FF05}|CaiXin.Infrastructure\\CaiXin.Infrastructure.csproj|solutionrelative:caixin.infrastructure\\job\\handler\\sysrequestloghandlerjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D6F070-3DBC-4451-996E-D81D3190FF05}|CaiXin.Infrastructure\\CaiXin.Infrastructure.csproj|f:\\work\\github\\caixin\\caixin.infrastructure\\job\\handler\\remoteservicejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D6F070-3DBC-4451-996E-D81D3190FF05}|CaiXin.Infrastructure\\CaiXin.Infrastructure.csproj|solutionrelative:caixin.infrastructure\\job\\handler\\remoteservicejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D6F070-3DBC-4451-996E-D81D3190FF05}|CaiXin.Infrastructure\\CaiXin.Infrastructure.csproj|f:\\work\\github\\caixin\\caixin.infrastructure\\job\\argsdto\\clealogsargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D6F070-3DBC-4451-996E-D81D3190FF05}|CaiXin.Infrastructure\\CaiXin.Infrastructure.csproj|solutionrelative:caixin.infrastructure\\job\\argsdto\\clealogsargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D6F070-3DBC-4451-996E-D81D3190FF05}|CaiXin.Infrastructure\\CaiXin.Infrastructure.csproj|f:\\work\\github\\caixin\\caixin.infrastructure\\job\\argsdto\\remoteserviceargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D6F070-3DBC-4451-996E-D81D3190FF05}|CaiXin.Infrastructure\\CaiXin.Infrastructure.csproj|solutionrelative:caixin.infrastructure\\job\\argsdto\\remoteserviceargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D6F070-3DBC-4451-996E-D81D3190FF05}|CaiXin.Infrastructure\\CaiXin.Infrastructure.csproj|f:\\work\\github\\caixin\\caixin.infrastructure\\job\\argsdto\\sysrequestlogargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D6F070-3DBC-4451-996E-D81D3190FF05}|CaiXin.Infrastructure\\CaiXin.Infrastructure.csproj|solutionrelative:caixin.infrastructure\\job\\argsdto\\sysrequestlogargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A91AE94-796F-42A2-857F-675FBFFE4866}|CaiXin.Host\\CaiXin.Host.csproj|f:\\work\\github\\caixin\\caixin.host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A91AE94-796F-42A2-857F-675FBFFE4866}|CaiXin.Host\\CaiXin.Host.csproj|solutionrelative:caixin.host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D2BF18-E5A8-4076-9EB5-F3EECADB775A}|CaiXin.Application.Contracts\\CaiXin.Application.Contracts.csproj|f:\\work\\github\\caixin\\caixin.application.contracts\\caixinapplicationcontractsmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D2BF18-E5A8-4076-9EB5-F3EECADB775A}|CaiXin.Application.Contracts\\CaiXin.Application.Contracts.csproj|solutionrelative:caixin.application.contracts\\caixinapplicationcontractsmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DistributedCacheHashExtensions.cs",
+              "DocumentMoniker": "F:\\Work\\github\\CaiXin\\CaiXin.Infrastructure\\Extensions\\DistributedCacheHashExtensions.cs",
+              "RelativeDocumentMoniker": "CaiXin.Infrastructure\\Extensions\\DistributedCacheHashExtensions.cs",
+              "ToolTip": "F:\\Work\\github\\CaiXin\\CaiXin.Infrastructure\\Extensions\\DistributedCacheHashExtensions.cs",
+              "RelativeToolTip": "CaiXin.Infrastructure\\Extensions\\DistributedCacheHashExtensions.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAewEwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:18:33.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "F:\\Work\\github\\CaiXin\\CaiXin.Doamin\\AggRoot\\EntityBase.cs",
+              "RelativeDocumentMoniker": "CaiXin.Doamin\\AggRoot\\EntityBase.cs",
+              "ToolTip": "F:\\Work\\github\\CaiXin\\CaiXin.Doamin\\AggRoot\\EntityBase.cs",
+              "RelativeToolTip": "CaiXin.Doamin\\AggRoot\\EntityBase.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwDAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:18:14.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDo.cs",
+              "DocumentMoniker": "F:\\Work\\github\\CaiXin\\CaiXin.Doamin\\Sys\\SysUser\\Entity\\UserDo.cs",
+              "RelativeDocumentMoniker": "CaiXin.Doamin\\Sys\\SysUser\\Entity\\UserDo.cs",
+              "ToolTip": "F:\\Work\\github\\CaiXin\\CaiXin.Doamin\\Sys\\SysUser\\Entity\\UserDo.cs",
+              "RelativeToolTip": "CaiXin.Doamin\\Sys\\SysUser\\Entity\\UserDo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:17:29.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CaiXinApplicationModule.cs",
+              "DocumentMoniker": "F:\\Work\\github\\CaiXin\\CaiXin.Application\\CaiXinApplicationModule.cs",
+              "RelativeDocumentMoniker": "CaiXin.Application\\CaiXinApplicationModule.cs",
+              "ToolTip": "F:\\Work\\github\\CaiXin\\CaiXin.Application\\CaiXinApplicationModule.cs",
+              "RelativeToolTip": "CaiXin.Application\\CaiXinApplicationModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T13:58:45.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\Work\\github\\CaiXin\\CaiXin.Host\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CaiXin.Host\\Controllers\\UserController.cs",
+              "ToolTip": "F:\\Work\\github\\CaiXin\\CaiXin.Host\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CaiXin.Host\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAnwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:44:27.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CaiXinInfrastructureModule.cs",
+              "DocumentMoniker": "F:\\Work\\github\\CaiXin\\CaiXin.Infrastructure\\CaiXinInfrastructureModule.cs",
+              "RelativeDocumentMoniker": "CaiXin.Infrastructure\\CaiXinInfrastructureModule.cs",
+              "ToolTip": "F:\\Work\\github\\CaiXin\\CaiXin.Infrastructure\\CaiXinInfrastructureModule.cs",
+              "RelativeToolTip": "CaiXin.Infrastructure\\CaiXinInfrastructureModule.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAADwv4sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T13:37:50.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RecurringJobWorkRegister.cs",
+              "DocumentMoniker": "F:\\Work\\github\\CaiXin\\CaiXin.Infrastructure\\Job\\RecurringJobWorkRegister.cs",
+              "RelativeDocumentMoniker": "CaiXin.Infrastructure\\Job\\RecurringJobWorkRegister.cs",
+              "ToolTip": "F:\\Work\\github\\CaiXin\\CaiXin.Infrastructure\\Job\\RecurringJobWorkRegister.cs",
+              "RelativeToolTip": "CaiXin.Infrastructure\\Job\\RecurringJobWorkRegister.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAADwv04AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:42:49.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\Work\\github\\CaiXin\\CaiXin.Host\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CaiXin.Host\\appsettings.Development.json",
+              "ToolTip": "F:\\Work\\github\\CaiXin\\CaiXin.Host\\appsettings.Development.json",
+              "RelativeToolTip": "CaiXin.Host\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T15:20:28.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HangfireJobWorkRegister.cs",
+              "DocumentMoniker": "F:\\Work\\github\\CaiXin\\CaiXin.Infrastructure\\Job\\HangfireJobWorkRegister.cs",
+              "RelativeDocumentMoniker": "CaiXin.Infrastructure\\Job\\HangfireJobWorkRegister.cs",
+              "ToolTip": "F:\\Work\\github\\CaiXin\\CaiXin.Infrastructure\\Job\\HangfireJobWorkRegister.cs",
+              "RelativeToolTip": "CaiXin.Infrastructure\\Job\\HangfireJobWorkRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T15:01:33.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RemoteServiceJob.cs",
+              "DocumentMoniker": "F:\\Work\\github\\CaiXin\\CaiXin.Infrastructure\\Job\\Handler\\RemoteServiceJob.cs",
+              "RelativeDocumentMoniker": "CaiXin.Infrastructure\\Job\\Handler\\RemoteServiceJob.cs",
+              "ToolTip": "F:\\Work\\github\\CaiXin\\CaiXin.Infrastructure\\Job\\Handler\\RemoteServiceJob.cs",
+              "RelativeToolTip": "CaiXin.Infrastructure\\Job\\Handler\\RemoteServiceJob.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAABIwCMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:50:28.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RemoteServiceArgs.cs",
+              "DocumentMoniker": "F:\\Work\\github\\CaiXin\\CaiXin.Infrastructure\\Job\\ArgsDto\\RemoteServiceArgs.cs",
+              "RelativeDocumentMoniker": "CaiXin.Infrastructure\\Job\\ArgsDto\\RemoteServiceArgs.cs",
+              "ToolTip": "F:\\Work\\github\\CaiXin\\CaiXin.Infrastructure\\Job\\ArgsDto\\RemoteServiceArgs.cs",
+              "RelativeToolTip": "CaiXin.Infrastructure\\Job\\ArgsDto\\RemoteServiceArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:50:25.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Work\\github\\CaiXin\\CaiXin.Host\\appsettings.json",
+              "RelativeDocumentMoniker": "CaiXin.Host\\appsettings.json",
+              "ToolTip": "F:\\Work\\github\\CaiXin\\CaiXin.Host\\appsettings.json",
+              "RelativeToolTip": "CaiXin.Host\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T15:12:09.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RabbitMQConsumerServiceTest.cs",
+              "DocumentMoniker": "F:\\Work\\github\\CaiXin\\CaiXin.Infrastructure\\MessageBroker\\RabbitMQConsumerServiceTest.cs",
+              "RelativeDocumentMoniker": "CaiXin.Infrastructure\\MessageBroker\\RabbitMQConsumerServiceTest.cs",
+              "ToolTip": "F:\\Work\\github\\CaiXin\\CaiXin.Infrastructure\\MessageBroker\\RabbitMQConsumerServiceTest.cs",
+              "RelativeToolTip": "CaiXin.Infrastructure\\MessageBroker\\RabbitMQConsumerServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:48:42.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RabbitMQConsumerService.cs",
+              "DocumentMoniker": "F:\\Work\\github\\CaiXin\\CaiXin.Infrastructure\\MessageBroker\\RabbitMQConsumerService.cs",
+              "RelativeDocumentMoniker": "CaiXin.Infrastructure\\MessageBroker\\RabbitMQConsumerService.cs",
+              "ToolTip": "F:\\Work\\github\\CaiXin\\CaiXin.Infrastructure\\MessageBroker\\RabbitMQConsumerService.cs",
+              "RelativeToolTip": "CaiXin.Infrastructure\\MessageBroker\\RabbitMQConsumerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:20:05.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CaiXinHostModule.cs",
+              "DocumentMoniker": "F:\\Work\\github\\CaiXin\\CaiXin.Host\\CaiXinHostModule.cs",
+              "RelativeDocumentMoniker": "CaiXin.Host\\CaiXinHostModule.cs",
+              "ToolTip": "F:\\Work\\github\\CaiXin\\CaiXin.Host\\CaiXinHostModule.cs",
+              "RelativeToolTip": "CaiXin.Host\\CaiXinHostModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T13:37:37.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SysRequestLogHandlerJob.cs",
+              "DocumentMoniker": "F:\\Work\\github\\CaiXin\\CaiXin.Infrastructure\\Job\\Handler\\SysRequestLogHandlerJob.cs",
+              "RelativeDocumentMoniker": "CaiXin.Infrastructure\\Job\\Handler\\SysRequestLogHandlerJob.cs",
+              "ToolTip": "F:\\Work\\github\\CaiXin\\CaiXin.Infrastructure\\Job\\Handler\\SysRequestLogHandlerJob.cs",
+              "RelativeToolTip": "CaiXin.Infrastructure\\Job\\Handler\\SysRequestLogHandlerJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:50:29.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CleaLogsArgs.cs",
+              "DocumentMoniker": "F:\\Work\\github\\CaiXin\\CaiXin.Infrastructure\\Job\\ArgsDto\\CleaLogsArgs.cs",
+              "RelativeDocumentMoniker": "CaiXin.Infrastructure\\Job\\ArgsDto\\CleaLogsArgs.cs",
+              "ToolTip": "F:\\Work\\github\\CaiXin\\CaiXin.Infrastructure\\Job\\ArgsDto\\CleaLogsArgs.cs",
+              "RelativeToolTip": "CaiXin.Infrastructure\\Job\\ArgsDto\\CleaLogsArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:50:36.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SysRequestLogArgs.cs",
+              "DocumentMoniker": "F:\\Work\\github\\CaiXin\\CaiXin.Infrastructure\\Job\\ArgsDto\\SysRequestLogArgs.cs",
+              "RelativeDocumentMoniker": "CaiXin.Infrastructure\\Job\\ArgsDto\\SysRequestLogArgs.cs",
+              "ToolTip": "F:\\Work\\github\\CaiXin\\CaiXin.Infrastructure\\Job\\ArgsDto\\SysRequestLogArgs.cs",
+              "RelativeToolTip": "CaiXin.Infrastructure\\Job\\ArgsDto\\SysRequestLogArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:50:24.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Work\\github\\CaiXin\\CaiXin.Host\\Program.cs",
+              "RelativeDocumentMoniker": "CaiXin.Host\\Program.cs",
+              "ToolTip": "F:\\Work\\github\\CaiXin\\CaiXin.Host\\Program.cs",
+              "RelativeToolTip": "CaiXin.Host\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvyoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:32:11.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CaiXinApplicationContractsModule.cs",
+              "DocumentMoniker": "F:\\Work\\github\\CaiXin\\CaiXin.Application.Contracts\\CaiXinApplicationContractsModule.cs",
+              "RelativeDocumentMoniker": "CaiXin.Application.Contracts\\CaiXinApplicationContractsModule.cs",
+              "ToolTip": "F:\\Work\\github\\CaiXin\\CaiXin.Application.Contracts\\CaiXinApplicationContractsModule.cs",
+              "RelativeToolTip": "CaiXin.Application.Contracts\\CaiXinApplicationContractsModule.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T13:58:52.17Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

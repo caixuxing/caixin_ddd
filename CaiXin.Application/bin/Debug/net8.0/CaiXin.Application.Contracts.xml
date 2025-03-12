@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CaiXin.Application.Contracts</name>
+    </assembly>
+    <members>
+        <member name="T:CaiXin.Application.Contracts.CaiXinApplicationContractsModule">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:CaiXin.Application.Contracts.CaiXinApplicationContractsModule.ConfigureServicesAsync(Volo.Abp.Modularity.ServiceConfigurationContext)">
+            <summary>
+            
+            </summary>
+            <param name="context"></param>
+            <returns></returns>
+        </member>
+        <member name="T:CaiXin.Application.Contracts.UserApp.Commands.CreateUserCmd">
+            <summary>
+            创建用户指令模型
+            </summary>
+        </member>
+        <member name="P:CaiXin.Application.Contracts.UserApp.Commands.CreateUserCmd.UserName">
+            <summary>
+            用户名
+            </summary>
+        </member>
+        <member name="P:CaiXin.Application.Contracts.UserApp.Commands.CreateUserCmd.PassWord">
+            <summary>
+            密码
+            </summary>
+        </member>
+        <member name="T:CaiXin.Application.Contracts.UserApp.Commands.CreatePursueHouseTaskCmdValidator">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:CaiXin.Application.Contracts.UserApp.Commands.CreatePursueHouseTaskCmdValidator.#ctor(CaiXin.Application.Contracts.UserApp.IUserApp)">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="P:CaiXin.Application.Contracts.UserApp.Commands.UpdateUserCmd.UserName">
+            <summary>
+            用户名
+            </summary>
+        </member>
+        <member name="P:CaiXin.Application.Contracts.UserApp.Commands.UpdateUserCmd.PassWord">
+            <summary>
+            密码
+            </summary>
+        </member>
+        <member name="P:CaiXin.Application.Contracts.UserApp.Commands.UpdateUserCmd.Id">
+            <summary>
+            用户主键
+            </summary>
+        </member>
+        <member name="T:CaiXin.Application.Contracts.UserApp.Commands.UpdateUserCmdValidator">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:CaiXin.Application.Contracts.UserApp.Commands.UpdateUserCmdValidator.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="T:CaiXin.Application.Contracts.UserApp.IAuthApp">
+            <summary>
+            授权认证App
+            </summary>
+        </member>
+        <member name="M:CaiXin.Application.Contracts.UserApp.IAuthApp.Login(CaiXin.Application.Contracts.UserApp.Query.LoginQry)">
+            <summary>
+            登录
+            </summary>
+            <param name="qry"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CaiXin.Application.Contracts.UserApp.IAuthApp.GetToken">
+            <summary>
+            获取Token
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:CaiXin.Application.Contracts.UserApp.IUserApp">
+            <summary>
+            用户App
+            </summary>
+        </member>
+        <member name="M:CaiXin.Application.Contracts.UserApp.IUserApp.CreateUserAsync(CaiXin.Application.Contracts.UserApp.Commands.CreateUserCmd)">
+            <summary>
+            创建用户
+            </summary>
+            <param name="cmd"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CaiXin.Application.Contracts.UserApp.IUserApp.CheckUserNameExistsAsync(System.String)">
+            <summary>
+            检查用户名是否存在
+            </summary>
+            <param name="userName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CaiXin.Application.Contracts.UserApp.IUserApp.UpdateUserAsync(CaiXin.Application.Contracts.UserApp.Commands.UpdateUserCmd)">
+            <summary>
+            更新用户信息
+            </summary>
+            <param name="cmd"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CaiXin.Application.Contracts.UserApp.IUserApp.FindById(System.Int64)">
+            <summary>
+            按ID查询用户信息
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CaiXin.Application.Contracts.UserApp.IUserApp.QueryPageList(CaiXin.Application.Contracts.UserApp.Query.UserPageQry)">
+            <summary>
+            按分页条件筛选
+            </summary>
+            <param name="qry"></param>
+            <returns></returns>
+        </member>
+        <member name="P:CaiXin.Application.Contracts.UserApp.Query.LoginQry.UserName">
+            <summary>
+            用户名
+            </summary>
+        </member>
+        <member name="P:CaiXin.Application.Contracts.UserApp.Query.LoginQry.PassWord">
+            <summary>
+            用户密码
+            </summary>
+        </member>
+        <member name="P:CaiXin.Application.Contracts.UserApp.Query.UserPageQry.UserName">
+            <summary>
+            用户名
+            </summary>
+        </member>
+        <member name="T:CaiXin.Application.Contracts.Validate.ValidateExten">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:CaiXin.Application.Contracts.Validate.ValidateExten.ValidateAndThrowAsync``1(FluentValidation.IValidator{``0},``0)">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="validator"></param>
+            <param name="dto"></param>
+            <returns></returns>
+            <exception cref="T:System.InvalidOperationException"></exception>
+        </member>
+    </members>
+</doc>
